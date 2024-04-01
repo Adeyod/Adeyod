@@ -8,6 +8,7 @@
 - 🌱 I'm currently learning AWS products such as AWS S3, SES, SQS, SNS, Lambda, and others.
 - 💬 I'm also learning React and React native.
 - 👯 I’m looking to collaborate on any problem-solving applications that can impact lives.
+- ⚡ Fun fact: I love playing chess because it helps in logical reasoning
 - 📫 How to reach me: **ayodejiadebolu@gmail.com**
 
 
